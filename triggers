@@ -1,0 +1,1 @@
+trigger added successfully
