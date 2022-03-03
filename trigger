@@ -1,1 +1,1 @@
-trigger added successfully
+build should automatically trigger
